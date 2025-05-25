@@ -1,0 +1,5 @@
+INCOME,2025-05-01,Salary,50000.0,Monthly salary
+EXPENSE,2025-05-03,Food,300.0,Groceries
+EXPENSE,2025-05-10,Rent,10000.0,Monthly rent
+INCOME,2025-05-15,Business,20000.0,Freelance project
+EXPENSE,2025-05-18,Travel,1500.0,Flight to Oslo
